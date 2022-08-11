@@ -29,14 +29,14 @@ let allMusic = [
     src: "music-3"
   },
   {
-    name: "Hardwind - Want Me",
-    artist: "Mike Archangelo",
+    name: "Tình đầu",
+    artist: "Tăng Duy Tân",
     img: "music-4",
     src: "music-4"
   },
   {
-    name: "Jim - Sun Goes Down",
-    artist: "Jim Yosef x Roy",
+    name: "3107 Album",
+    artist: "W/n ft titie, Nâu, Dương",
     img: "music-5",
     src: "music-5"
   },
