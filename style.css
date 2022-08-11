@@ -23,7 +23,7 @@ body{
   align-items: center;
   justify-content: center;
   min-height: 100vh;
-  background: linear-gradient(var(--pink) 0%, var(--violet) 100%);
+  background: url("https://cdn.discordapp.com/attachments/745554137315278869/1006894826253463622/3a7bda163b42122cec8497e44ce3f9dd.gif");
 }
 .wrapper{
   width: 380px;

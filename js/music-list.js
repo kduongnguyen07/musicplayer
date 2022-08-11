@@ -46,6 +46,12 @@ let allMusic = [
     img: "music-6",
     src: "music-6"
   },
+  {
+    name: "Kẻ theo đuổi ánh sáng",
+    artist: "Huy Vạc x Tiến Nguyễn ",
+    img: "music-7",
+    src: "music-7"
+  },
   // like this paste it and remember to give comma after ending of this bracket }
   // {
   //   name: "Here is the music name",
