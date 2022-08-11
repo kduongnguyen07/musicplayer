@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<!--Dương Nguyên Khánh-->
 <html lang="en">
 <head>
   <meta property="og:title" content="Music Player" />
@@ -9,6 +10,7 @@
   <title>Nghe Nhạc</title>
   <link rel="stylesheet" href="style.css">
   <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+<!--Chặn xem mã nguồn-->  
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 <script type="text/javascript">
   jQuery(document).ready(function () {
@@ -50,7 +52,7 @@
     }
   })
 </script>
-  },
+<!--------------------------------------------------------------------------------------------------------->
 </head>
 <body>
   <div class="wrapper">
@@ -62,19 +64,24 @@
     <div class="img-area">
       <img src="" alt="">
     </div>
+    <!--Tên bài nhạc-->
     <div class="song-details">
       <p class="name"></p>
       <p class="artist"></p>
     </div>
+    <!--Thanh thời gian-->
     <div class="progress-area">
       <div class="progress-bar">
         <audio id="main-audio" src=""></audio>
       </div>
+      <!---->
+      <!---->
       <div class="song-timer">
         <span class="current-time">0:00</span>
         <span class="max-duration">0:00</span>
       </div>
     </div>
+    <!--Nút chức năng-->
     <div class="controls">
       <i id="repeat-plist" class="material-icons" title="Playlist looped">repeat</i>
       <i id="prev" class="material-icons">skip_previous</i>
@@ -93,11 +100,11 @@
         <i id="close" class="material-icons">close</i>
       </div>
       <ul>
-        <!-- here li list are coming from js -->
+        <!---->
       </ul>
     </div>
   </div>
-
+<!---->
   <script src="js/music-list.js"></script>
   <script src="js/script.js"></script>
 
