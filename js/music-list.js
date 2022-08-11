@@ -13,8 +13,8 @@ let allMusic = [
   {
     name: "Forget Me Now",
     artist: "Fishy & Trí Dũng",
-    img: "thumbnail\Forget Me Now.jpg",
-    src: "music\Forget Me Now.mp3"
+    img: "music-1",
+    src: "music-1"
   },
   {
     name: "Ikson Anywhere – Ikson",
