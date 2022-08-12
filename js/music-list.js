@@ -59,4 +59,10 @@ let allMusic = [
     img: "music-10",
     src: "music-10"
   },
+  {
+    name: "Bên trên tầng lầu",
+    artist: "Tăng Duy Tân",
+    img: "music-11",
+    src: "music-11"
+  },
 ];
