@@ -246,3 +246,8 @@ ul li.playing{
   pointer-events: none;
   color: var(--violet);
 }
+@media (min-width: 768px) {
+  .wrapper{
+    border-radius: 0%;
+  }
+}
