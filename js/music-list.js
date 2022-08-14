@@ -102,7 +102,7 @@ let allMusic = [
     src: "music-17"
   },
   {
-    name: "Chúng Ta Không Thuộc Về nhau",
+    name: "Chúng Ta Không Thuộc Về Nhau",
     artist: "Sơn Tùng M-TP",
     img: "music-18",
     src: "music-18"
