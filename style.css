@@ -23,12 +23,12 @@ body{
   align-items: center;
   justify-content: center;
   min-height: 100vh;
-  background: url("https://tophinhanh.com/wp-content/uploads/2022/01/15_hinh-gif-anime-chill-gif-chill-dep-nhat.gif");
+  background: url("https://cdn.discordapp.com/attachments/855845963997642752/1008275949818744892/chill.gif");
   background-size: cover;
 }
 .wrapper{
-  width: 380px;
-  height: 630px;  
+  width: 360px;
+  height: 640px;  
   padding: 25px 30px;
   overflow: hidden;
   position: relative;
