@@ -148,7 +148,7 @@ body {
   font-size: 30px;
   padding: 5px;
   margin-bottom: 10px;
-  color: #acb8cc;
+  color: #4686e6;
   cursor: pointer;
   width: 50px;
   height: 50px;
@@ -263,20 +263,22 @@ body {
   height: 6px;
   width: 100%;
   cursor: pointer;
-  background-color: #d0d8e6;
+  background-color:#a3b3ce;
   display: inline-block;
   border-radius: 10px;
 }
 
 .progress__current {
   height: inherit;
+  border-radius: inherit;
+  background: linear-gradient(90deg, var(--blue) 0%, var(--violet) 100%);
   width: 0%;
-  background-color: #a3b3ce;
+  background-color:#9f6ea3 ; 
   border-radius: 10px;
 }
 
 .album-info {
-  color: #71829e;
+  color: #3e8aee;
   flex: 1;
   padding-right: 60px;
   user-select: none;
